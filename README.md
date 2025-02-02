@@ -31,7 +31,7 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/horobryh-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hororbryh22)
 
-- :page_with_curl: Please have a look at my [CV](https://horobryh22.github.io/my-portfolio/static/media/cv.3a15ea41f7ee09262230.pdf) for more details about me. I'm open to feedback and suggestions!
+- :page_with_curl: Please have a look at my CV for more details about me. I'm open to feedback and suggestions!
 
  - :envelope: You can shoot me an email at [![Linkedin Badge](https://img.shields.io/badge/-horobryh17@gmail.com-blue?style=flat&logo=Google&logoColor=white)](https://horobryh17@gmail.com) ! I'll try to respond as soon as I can.
  
